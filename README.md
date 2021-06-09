@@ -30,7 +30,7 @@ Here are some ideas to get you started:
       <input type="submit" name="commit" value="Unfollow" class="btn btn-block" title="Unfollow guofei9987" aria-label="Unfollow this person" data-disable-with="Unfollow">
 </form>  </span>
 
-            </div>
-      </div>
+</div>
+</div>
 
-  </div>
+</div>
